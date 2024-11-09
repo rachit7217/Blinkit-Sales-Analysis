@@ -1,4 +1,5 @@
 # Blinkit-Sales-Analysis
+![logo](https://github.com/rachit7217/Blinkit-Sales-Analysis/blob/main/Dashboard%204%20blinkit%20grocery%20sales.png)
 
 To create a comprehensive "Blinkit Sales Analysis" project using Excel, SQL, and Power BI, follow these key steps:
 
